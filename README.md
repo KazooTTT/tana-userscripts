@@ -20,7 +20,7 @@ Display the current Tana node title in your browser tab (format: `Tana - {title}
 #### Installation
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) or [Violentmonkey](https://violentmonkey.github.io/)
-2. Click [Install Script](tampermonkey/index.js) (or copy the code below)
+2. Click [Install Script](https://github.com/KazooTTT/tana-userscripts/raw/main/tana-title-to-tab.user.js) (or copy the code below)
 3. Grant permissions for `https://app.tana.inc/*`
 4. Refresh Tana and enjoy!
 
